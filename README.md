@@ -5,6 +5,10 @@
 A Node.js function that generates a UPN form in the format of a QR code with a custom logo.
 Based on the provided data, config and custom logo QR code is generated.
 
+## Example
+
+![Generated QR code with a custom logo](upn-qr-logo.png)
+
 ## Usage
 
 ```javascript
