@@ -11,12 +11,12 @@ Based on the provided data, config and custom logo QR code is generated.
 // Install all dependencies
 npm i
 
-// Generates QR code
-// and saves it at <current-directory>/upn-qr-logo.png
+// Generate QR code
+// and save it at <current-directory>/upn-qr-logo.png
 node main.js
 ```
 
-## Package utilization
+## Dependencies
 
 - [qr-with-logo](https://www.npmjs.com/package/qr-with-logo)
 - [upnqr](https://www.npmjs.com/package/upnqr)
